@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+    font-family: "Viga", Sans-serif;
+}
+
+.box {
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+.pic {
+    height: 200px;
+    width: 200px;
+}
+
+img {
+    margin: 20px;
+    height: 160px;
+    width: 160px;
+}
+
+.name {
+    line-height: 30px;
+    vertical-align: middle;
+}
