@@ -7,6 +7,18 @@ html {
   display: flex;
 }
 
+.bo {
+  height: 250px;
+  width: 100px;
+  margin: 0.5px;
+}
+
+.boxx {
+  height: 250px;
+  width: 200px;
+  margin: 1px;
+}
+
 .box {
   text-align: center;
   height: 250px;
@@ -29,6 +41,12 @@ img {
 }
 
 .name {
-  line-height: 30px;
+  line-height: 15px;
   vertical-align: middle;
 }
+
+.fullname {
+  font-size: small;
+  font-family: Poppins;
+}
+
